@@ -1,0 +1,1 @@
+Mục tiêu xây dựng thành công bài toán cho chương trình đáp ứng được các yêu cầu và mục tiêu đưa ra ban đầu trong việc phân loại rượu vang. Để làm được người này, nhóm xây dựng cần nắm chắc và hiểu rõ được thuật toán rừng ngẫu nhiên và áp dụng nó một cách thành công trong việc tạo ra chương trình giúp nhận diện phân loại rượu vang.
